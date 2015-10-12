@@ -6,6 +6,6 @@ I'm trying to compare the difference of force delay of Visual-Haptic application
 
 In order to run this application, you need:
 
-Microsoft Visual Studio 2012 (for debug)
-Oculus Rift Development Kit 2
-Delta Haptic Device
+- Microsoft Visual Studio 2012 (for debug)
+- Oculus Rift Development Kit 2
+- Delta Haptic Device
